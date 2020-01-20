@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golemverse</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Golemverse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ThinkR - 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 21:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/golem-color-star.png</url>
+      <title>Golemverse</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Contact ThinkR</title>
+      <link>/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contact/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second live stream</title>
+      <link>/talk/2020-01-23-twitch/</link>
+      <pubDate>Thu, 23 Jan 2020 21:00:00 +0000</pubDate>
+      <guid>/talk/2020-01-23-twitch/</guid>
+      <description>&lt;h3 id=&#34;second-live-stream-&#34;&gt;Second live stream 🎂&lt;/h3&gt;
+&lt;li&gt; 👨‍💻 Colin Fay, &lt;a href = &#34;https://twitter.com/_ColinFay&#34;&gt;@_ColinFay&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt; 🔗 https://www.twitch.tv/thinkr_fr &lt;/li&gt;
+&lt;li&gt; ⏳ __2020-01-21 21.00 Paris Time__. &lt;/li&gt;
+&lt;details closed&gt;
+&lt;summary&gt; &lt;span title=&#39;Click to Expand&#39;&gt; See Event in Other Timezones &lt;/span&gt; &lt;/summary&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+$UTC
+[1] &amp;quot;2020-01-21 20:00:00 UTC&amp;quot;
+
+$`America/New_York`
+[1] &amp;quot;2020-01-21 15:00:00 EST&amp;quot;
+
+$`America/Los_Angeles`
+[1] &amp;quot;2020-01-21 12:00:00 PST&amp;quot;
+
+$`Australia/Sydney`
+[1] &amp;quot;2020-01-22 07:00:00 AEDT&amp;quot;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/details&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First live stream 🎂</title>
+      <link>/talk/2020-01-13-twitch/</link>
+      <pubDate>Mon, 13 Jan 2020 21:00:00 +0000</pubDate>
+      <guid>/talk/2020-01-13-twitch/</guid>
+      <description>&lt;h3 id=&#34;first-live-stream-&#34;&gt;First live stream 🎂&lt;/h3&gt;
+&lt;li&gt; 👨‍💻 Colin Fay, &lt;a href = &#34;https://twitter.com/_ColinFay&#34;&gt;@_ColinFay&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt; 🔗 https://www.twitch.tv/thinkr_fr &lt;/li&gt;
+&lt;li&gt; ⏳ __2020-01-13 21.00 Paris Time__. &lt;/li&gt;
+&lt;details closed&gt;
+&lt;summary&gt; &lt;span title=&#39;Click to Expand&#39;&gt; See Event in Other Timezones &lt;/span&gt; &lt;/summary&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;
+$UTC
+[1] &amp;quot;2020-01-13 20:00:00 UTC&amp;quot;
+
+$`America/New_York`
+[1] &amp;quot;2020-01-13 15:00:00 EST&amp;quot;
+
+$`America/Los_Angeles`
+[1] &amp;quot;2020-01-13 12:00:00 PST&amp;quot;
+
+$`Australia/Sydney`
+[1] &amp;quot;2020-01-14 07:00:00 AEDT&amp;quot;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/details&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streams</title>
+      <link>/stream/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/stream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>{shinipsum}</title>
+      <link>/packages_list/shinipsum-package/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/packages_list/shinipsum-package/</guid>
+      <description>&lt;p&gt;The goal of {shinipsum} is to provide random shiny elements for easiest shiny app prototyping, so that you can focus on building the frontend before building the backend.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thinkr-open.github.io/shinipsum/&#34;&gt;More documentation of shinipsum on its dedicated website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Big Shiny Apps - A Workflow</title>
+      <link>/publication/building-big-shiny-apps-a-workflow-building-big-shiny-apps-a-workflow/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/building-big-shiny-apps-a-workflow-building-big-shiny-apps-a-workflow/</guid>
+      <description>&lt;p&gt;The book is in construction here: &lt;a href=&#34;https://thinkr-open.github.io/building-shiny-apps-workflow&#34;&gt;https://thinkr-open.github.io/building-shiny-apps-workflow&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{golem}</title>
+      <link>/packages_list/golem/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/packages_list/golem/</guid>
+      <description>&lt;p&gt;{golem} is an opinionated framework for building production-grade shiny applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thinkr-open.github.io/golem/&#34;&gt;More documentation on {golem} website here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{shinysnippets}</title>
+      <link>/packages_list/shinysnippets/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/packages_list/shinysnippets/</guid>
+      <description>&lt;p&gt;Thanks to {shinysnippets} package, you will save development time. No more need to type obverseEvent or withProgress&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ThinkR-open/shinysnippets&#34;&gt;More documentation on {shinysnippets}&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>{golem} 0.1.0 has been released on CRAN</title>
+      <link>/post/golem-0.1.0-release-on-cran/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/post/golem-0.1.0-release-on-cran/</guid>
+      <description>&lt;p&gt;golem (v0.1) A Framework for Building Robust Shiny Apps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/golem/index.html&#34;&gt;{golem} on CRAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ThinkR-open/golem&#34;&gt;{golem} no GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://thinkr-open.github.io/golem/&#34;&gt;pkgdown and vignettes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>/documentation/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/news/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/packages/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/packages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

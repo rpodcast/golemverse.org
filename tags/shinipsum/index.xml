@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shinipsum | Golemverse</title>
+    <link>/tags/shinipsum/</link>
+      <atom:link href="/tags/shinipsum/index.xml" rel="self" type="application/rss+xml" />
+    <description>shinipsum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ThinkR - 2020</copyright><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/golem-color-star.png</url>
+      <title>shinipsum</title>
+      <link>/tags/shinipsum/</link>
+    </image>
+    
+    <item>
+      <title>{shinipsum}</title>
+      <link>/packages_list/shinipsum-package/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/packages_list/shinipsum-package/</guid>
+      <description>&lt;p&gt;The goal of {shinipsum} is to provide random shiny elements for easiest shiny app prototyping, so that you can focus on building the frontend before building the backend.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thinkr-open.github.io/shinipsum/&#34;&gt;More documentation of shinipsum on its dedicated website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
